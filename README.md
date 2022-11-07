@@ -2,7 +2,7 @@
 
 See the implementation on colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/weiji14/deepbedmap/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/192o9HMJ0nF_6PyimONmFs6iMe-18CCRT?usp=sharing)
 
 During my CSE 598 : Introduction to Deep Learning class, I was given an assignment of classifying Iris Dataset using Quantum Machine Learning. I implemented 12 different ansatzes for 4 different embeddings using 2 different optimizers and compared their results.
 
